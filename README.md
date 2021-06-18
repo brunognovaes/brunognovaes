@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Bruno Novaes 👋
 
-<!--
-**brunognovaes/brunognovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Software Development at Trybe. 🚀
 
-Here are some ideas to get you started:
+### Technologies. :wrench:
+- CSS
+- JavaScript
+- Html
+- Jest
+- NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to see my repositories, and I am always open to talk! 😆
+
+## Linkedin. :couch_and_lamp:
+
+![linkedin-qrcode](https://imgur.com/2sIoUV2)
