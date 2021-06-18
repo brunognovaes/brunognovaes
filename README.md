@@ -13,4 +13,4 @@ Feel free to see my repositories, and I am always open to talk! 😆
 
 ## Linkedin. :couch_and_lamp:
 
-![linkedin-qrcode](https://pasteboard.co/K76fEmq.jpg)
+![linkedin-qrcode](https://user-images.githubusercontent.com/74681722/122488103-2615f180-cfb3-11eb-9270-660a49797fc7.jpeg)
