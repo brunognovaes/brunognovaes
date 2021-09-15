@@ -4,6 +4,8 @@ I'm currently studying Software Development at Trybe. 🚀
 
 ### Technologies. :wrench:
 - JavaScript ⭐
+- React
+- MySQL
 - CSS
 - Html
 - Jest
