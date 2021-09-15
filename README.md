@@ -9,7 +9,6 @@ I'm currently studying Software Development at Trybe. 🚀
 - Jest
 - NodeJS
 
-Feel free to see my repositories, and I am always open to talk! 😆
 
 ## Linkedin. :couch_and_lamp:
 
